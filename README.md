@@ -1,2 +1,2 @@
 # Filtering-OS-Skills-Gallery
-Simple Skills Gallery that representing my skill set.
+Simple Skills Gallery Page that represents my skill set.
